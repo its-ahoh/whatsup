@@ -32,7 +32,7 @@ git clone https://github.com/its-ahoh/whatsup.git ~/.claude/skills/whatsup
 
 Invoke it mid-task to get a snapshot of where things stand:
 
-- `/whatsup` (or `/status`)
+- `/whatsup`
 - or just ask: "whatsup", "what's up", "where are we", "summarize progress"
 
 The panel is a fixed **58-column** outlined box that wraps long lines so it fits a narrow terminal, with right-aligned timestamps that form a clean column. See [`SKILL.md`](SKILL.md) for the full format spec.
