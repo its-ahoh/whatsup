@@ -1,6 +1,6 @@
 # whatsup
 
-A Claude Code skill that renders the current session as a compact, fixed-width **status panel** — goal, progress, status, next action, and a recent timeline — inspired by the [Codey](https://github.com/) Mac app's Task HUD.
+A Claude Code skill that renders the current session as a compact, fixed-width **status panel** — goal, progress, status, next action, and a recent timeline — inspired by the [Codey](https://github.com/its-ahoh/codey/) Mac app's Task HUD.
 
 ```
 ┌─ STATUS ───────────────────────────────────────────────┐
