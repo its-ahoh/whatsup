@@ -5,7 +5,7 @@ description: Render a compact task status panel summarizing the current agent se
 
 # Status Panel
 
-Summarize the **current session** into a compact dashboard, modeled on the Codey Task HUD. Works in any AI coding agent, not just Claude Code. Everything you need is already in the conversation — do not investigate the codebase. Just read the session and render the panel.
+Summarize the **current session** into a compact dashboard, modeled on the Codey Task HUD. Everything you need is already in the conversation — do not investigate the codebase. Just read the session and render the panel.
 
 ## Output format
 
