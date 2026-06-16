@@ -1,6 +1,6 @@
 # whatsup
 
-An agent skill that renders the current session as a compact, fixed-width **status panel** — goal, progress, status, next action, and a recent timeline — inspired by the [Codey](https://github.com/its-ahoh/codey/) Mac app's Task HUD. Works with Claude Code and any AI coding agent that supports skills.
+An agent skill that renders the current session as a compact, fixed-width **status panel** — goal, progress, status, next action, and a recent timeline — inspired by the [Codey](https://github.com/its-ahoh/codey/) Mac app's Task HUD.
 
 ```
 ┌─ STATUS ───────────────────────────────────────────────┐
